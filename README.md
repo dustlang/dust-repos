@@ -1,4 +1,4 @@
-# Rust repositories list
+# Dust repositories list
 
 This repository contains a scraped list of all the public GitHub repos with source code
 written in the [Rust programming language][rust]. The source code for the scraper is
